@@ -9,6 +9,3 @@ public class Main {
         horse.printAbility();
     }
 }
-
-
-
